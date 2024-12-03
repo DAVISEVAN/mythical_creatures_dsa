@@ -42,20 +42,34 @@ Use RSpec to verify your solutions.
 Start with the simpler exercises (e.g., linear_search_spec.rb or gremlin_spec.rb) and progress to more challenging ones.
 List of Creatures and Algorithms
 
-Creatures
-Gremlin: Linear Search (Easy)
-Sphinx: Binary Search (Easy-Medium)
-Hydra: Merge Sort (Medium)
-Phoenix: Quick Sort (Medium-Hard)
-Minotaur: Depth-First Search (Hard)
-Unicorn: Breadth-First Search (Hard)
-Algorithms
-Linear Search
-Binary Search
-Merge Sort
-Quick Sort
-Depth-First Search
-Breadth-First Search
+Creatures:
+
+1. Gremlin: Linear Search (Easy)
+
+2. Sphinx: Binary Search (Easy-Medium)
+
+3. Hydra: Merge Sort (Medium)
+
+4. Phoenix: Quick Sort (Medium-Hard)
+
+5. Minotaur: Depth-First Search (Hard)
+
+6. Unicorn: Breadth-First Search (Hard)
+
+Algorithms:
+
+1. Linear Search
+
+2. Binary Search
+
+3. Merge Sort
+
+4. Quick Sort
+
+5. Depth-First Search
+
+6. Breadth-First Search
+
 Contributing
 
 Contributions are welcome! If you’d like to add new creatures, algorithms, or features, follow these steps:
