@@ -16,18 +16,30 @@ Open your terminal.
 Clone the repository:
   
 Navigate to the project directory:
-cd mythical_creatures_dsa
-Install Dependencies
-Run Bundler to install required gems:
-bundle install
-Run the Tests
-Use RSpec to run all tests and see your progress:
-bundle exec rspec
-To run tests for a specific category (algorithms or creatures), provide the folder path:
-bundle exec rspec spec/algorithms
-bundle exec rspec spec/creatures
-To run tests for a specific creature or algorithm, provide the spec file path:
-bundle exec rspec spec/creatures/gremlin_spec.rb
+
+1. cd mythical_creatures_dsa
+   
+2. Install Dependencies
+   
+3. Run Bundler to install required gems:
+   
+4. bundle install
+   
+5. Run the Tests
+    
+6. Use RSpec to run all tests and see your progress:
+    
+7. bundle exec rspec
+    
+8. To run tests for a specific category (algorithms or creatures), provide the folder path:
+    
+9. bundle exec rspec spec/algorithms
+    
+10. bundle exec rspec spec/creatures
+    
+11. To run tests for a specific creature or algorithm, provide the spec file path:
+    
+12. bundle exec rspec spec/creatures/gremlin_spec.rb
 
 How to Use the Repository
 
