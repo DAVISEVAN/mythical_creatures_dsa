@@ -12,11 +12,9 @@ This repository provides a fun and interactive way to practice Data Structures a
 - Git (to clone the repository)
 
 ### **Clone the Repository**
-1. Open your terminal.
-2. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   '''
+Open your terminal.
+Clone the repository:
+  
 Navigate to the project directory:
 cd mythical_creatures_dsa
 Install Dependencies
