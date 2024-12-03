@@ -16,6 +16,7 @@ This repository provides a fun and interactive way to practice Data Structures a
 2. Clone the repository:
    ```bash
    git clone <repository-url>
+   '''
 Navigate to the project directory:
 cd mythical_creatures_dsa
 Install Dependencies
@@ -32,7 +33,7 @@ bundle exec rspec spec/creatures/gremlin_spec.rb
 Project Structure
 
 The repository is organized as follows:
-
+'''
 mythical_creatures_dsa/
 ├── Gemfile             # Manages Ruby gem dependencies
 ├── Gemfile.lock        # Tracks gem versions
@@ -65,6 +66,7 @@ mythical_creatures_dsa/
 │       ├── minotaur_spec.rb
 │       └── unicorn_spec.rb
 └── README.md          # Documentation
+'''
 How to Use the Repository
 
 1. Choose a Category
