@@ -1,6 +1,6 @@
 # **Mythical Creatures DSA Practice**
 
-This repository provides a fun and interactive way to practice Data Structures and Algorithms (DSA) concepts using mythical creatures as the theme. Each mythical creature corresponds to a specific algorithm or data structure concept, with tasks designed to reinforce learning through Test-Driven Development (TDD). This 
+This repository provides a fun and interactive way to practice Data Structures and Algorithms (DSA) concepts using mythical creatures as the theme. Each mythical creature corresponds to a specific algorithm or data structure concept, with tasks designed to reinforce learning through Test-Driven Development (TDD). 
 
 ---
 
