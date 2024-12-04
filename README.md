@@ -12,59 +12,35 @@ This repository provides a fun and interactive way to practice Data Structures a
 - Git (to clone the repository)
 
 ### **Clone the Repository**
-1. Open your terminal.
-2. Clone the repository:
-   ```bash
-   git clone <repository-url>
+Open your terminal.
+Clone the repository:
+  
 Navigate to the project directory:
-cd mythical_creatures_dsa
-Install Dependencies
-Run Bundler to install required gems:
-bundle install
-Run the Tests
-Use RSpec to run all tests and see your progress:
-bundle exec rspec
-To run tests for a specific category (algorithms or creatures), provide the folder path:
-bundle exec rspec spec/algorithms
-bundle exec rspec spec/creatures
-To run tests for a specific creature or algorithm, provide the spec file path:
-bundle exec rspec spec/creatures/gremlin_spec.rb
-Project Structure
 
-The repository is organized as follows:
+1. cd mythical_creatures_dsa
+   
+2. Install Dependencies
+   
+3. Run Bundler to install required gems:
+   
+4. bundle install
+   
+5. Run the Tests
+    
+6. Use RSpec to run all tests and see your progress:
+    
+7. bundle exec rspec
+    
+8. To run tests for a specific category (algorithms or creatures), provide the folder path:
+    
+9. bundle exec rspec spec/algorithms
+    
+10. bundle exec rspec spec/creatures
+    
+11. To run tests for a specific creature or algorithm, provide the spec file path:
+    
+12. bundle exec rspec spec/creatures/gremlin_spec.rb
 
-mythical_creatures_dsa/
-├── Gemfile             # Manages Ruby gem dependencies
-├── Gemfile.lock        # Tracks gem versions
-├── lib/                # Contains implementation files
-│   ├── gremlin.rb      # Gremlin class
-│   ├── sphinx.rb       # Sphinx class
-│   ├── hydra.rb        # Hydra class
-│   ├── phoenix.rb      # Phoenix class
-│   ├── minotaur.rb     # Minotaur class
-│   ├── unicorn.rb      # Unicorn class
-│   ├── linear_search.rb # Linear search implementation
-│   ├── binary_search.rb # Binary search implementation
-│   ├── merge_sort.rb   # Merge sort implementation
-│   ├── quick_sort.rb   # Quick sort implementation
-│   ├── dfs.rb          # Depth-first search implementation
-│   └── bfs.rb          # Breadth-first search implementation
-├── spec/               # Contains RSpec test files
-│   ├── algorithms/     # Algorithm-related specs
-│   │   ├── linear_search_spec.rb
-│   │   ├── binary_search_spec.rb
-│   │   ├── merge_sort_spec.rb
-│   │   ├── quick_sort_spec.rb
-│   │   ├── dfs_spec.rb
-│   │   └── bfs_spec.rb
-│   ├── creatures/      # Creature-related specs
-│       ├── gremlin_spec.rb
-│       ├── sphinx_spec.rb
-│       ├── hydra_spec.rb
-│       ├── phoenix_spec.rb
-│       ├── minotaur_spec.rb
-│       └── unicorn_spec.rb
-└── README.md          # Documentation
 How to Use the Repository
 
 1. Choose a Category
@@ -78,20 +54,34 @@ Use RSpec to verify your solutions.
 Start with the simpler exercises (e.g., linear_search_spec.rb or gremlin_spec.rb) and progress to more challenging ones.
 List of Creatures and Algorithms
 
-Creatures
-Gremlin: Linear Search (Easy)
-Sphinx: Binary Search (Easy-Medium)
-Hydra: Merge Sort (Medium)
-Phoenix: Quick Sort (Medium-Hard)
-Minotaur: Depth-First Search (Hard)
-Unicorn: Breadth-First Search (Hard)
-Algorithms
-Linear Search
-Binary Search
-Merge Sort
-Quick Sort
-Depth-First Search
-Breadth-First Search
+Creatures:
+
+1. Gremlin: Linear Search (Easy)
+
+2. Sphinx: Binary Search (Easy-Medium)
+
+3. Hydra: Merge Sort (Medium)
+
+4. Phoenix: Quick Sort (Medium-Hard)
+
+5. Minotaur: Depth-First Search (Hard)
+
+6. Unicorn: Breadth-First Search (Hard)
+
+Algorithms:
+
+1. Linear Search
+
+2. Binary Search
+
+3. Merge Sort
+
+4. Quick Sort
+
+5. Depth-First Search
+
+6. Breadth-First Search
+
 Contributing
 
 Contributions are welcome! If you’d like to add new creatures, algorithms, or features, follow these steps:
