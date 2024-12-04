@@ -68,6 +68,8 @@ Creatures:
 
 6. Unicorn: Breadth-First Search (Hard)
 
+7. Balrog: Multiple Data Structures and Algorithms (Very Hard)
+
 Algorithms:
 
 1. Linear Search
@@ -81,6 +83,8 @@ Algorithms:
 5. Depth-First Search
 
 6. Breadth-First Search
+
+7. Insertion Sort
 
 Contributing
 
