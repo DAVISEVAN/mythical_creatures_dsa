@@ -72,6 +72,8 @@ Creatures:
 
 7. Balrog: Multiple Data Structures and Algorithms (Very Hard)
 
+8. Orc(Bonus): OOP practice 
+
 Algorithms:
 
 1. Linear Search
